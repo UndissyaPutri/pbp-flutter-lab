@@ -5,10 +5,10 @@
 
 ##  Perbedaan `Navigator.push` dan `Navigator.pushReplacement`. ## 
 
-<b> Navigator.push <br>
+<b> Navigator.push </b><br>
 Navigator.push adalah method yang digunakan untuk menambahkan route baru pada atas navigation stack. Dengan menggunakan MaterialPageRoute, transisi antar route dapat dilakukan. <br>
 
-<b> Navigator.pushReplacement <br>
+<b> Navigator.pushReplacement </b><br>
 Navigator.pushReplacement akan mengubah route pada navigator ke context yang paling dekat dengan cara push route (replace) dan tidak dapat pindah ke route sebelumnya.
 
 ## Widget apa saja yang kamu pakai di proyek kali ini dan jelaskan fungsinya. ##
